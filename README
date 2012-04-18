@@ -1,3 +1,9 @@
+_NB:_
+
+I forked this in order to make it 'go get'-able.
+
+----
+
 net.http.handler.gzip: a FileServer that serves gzipped content.
 
 Usage:
