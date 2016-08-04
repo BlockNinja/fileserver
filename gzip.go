@@ -1,4 +1,4 @@
-package gzip
+package fileserver
 
 import (
   "fmt"
