@@ -1,6 +1,6 @@
 ----
 
-net.http.handler.gzip: a FileServer that serves gzipped content.
+A FileServer that serves gzipped content.
 
 Usage:
 
